@@ -1,0 +1,10 @@
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\bin\Debug\MyCalculator_Example.exe.config
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\bin\Debug\MyCalculator_Example.exe
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\bin\Debug\MyCalculator_Example.pdb
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.csprojAssemblyReference.cache
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.Form1.resources
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.Properties.Resources.resources
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.csproj.GenerateResource.cache
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.csproj.CoreCompileInputs.cache
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.exe
+F:\C#\TopLearn.Com_Csharp_Part17\MyCalculator_Example\MyCalculator_Example\obj\Debug\MyCalculator_Example.pdb
